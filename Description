@@ -1,0 +1,3 @@
+CSE423 Project Named Counter King
+
+Short description Counter_king is a single-player 3D tower‑defense game built with Python and PyOpenGL. You defend a central fortress by placing towers and using the player’s weapon to stop waves of spawning enemies; towers and the player fire projectiles, and health packs can be picked up to survive. Rounds progress with increasing enemy counts and difficulty; the goal is to protect the fortress and survive through successive waves to earn the highest score. The game is configurable via the game_config dictionary (camera, world, enemies, towers, etc.).
